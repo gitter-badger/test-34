@@ -1,0 +1,18 @@
+*   36f40a6 (HEAD, origin/master, master) Merge conflict resolved
+|\  
+| * b6d507e (Feature1) final
+| * 6db10d7 Lorem ipsum added to feature1
+| * 7b0eee0 Feature 1 added
+* | 6f37be7 Trying to do a merge conflict :P
+|/  
+* 3c906bf Changes after reverting
+*   b669db9 Merge branch 'master' of https://github.com/rohitrango/test
+|\  
+| * c6c1698 added log file :P
+* | 5abfdef Revert "Using Sublime to enter commit message." Confirm this change This reverts commit 34f1e6333db332c44eda1e25b641ad8ef21d5f08.
+* | c216563 added log file :P Added a file d.txt Forgot to stage
+|/  
+* af58dcf Deleted git directory
+* 34f1e63 Using Sublime to enter commit message.
+* 4e00d9a Added gitignore and added sample files
+* 7856ff4 Just a sample commit
