@@ -1,0 +1,23 @@
+commit af58dcfae99e2370031fd2f3101d1ee058183cb4
+Author: rohitrango <rohit.rango@gmail.com>
+Date:   Wed Apr 6 19:51:30 2016 +0530
+
+    Deleted git directory
+
+commit 34f1e6333db332c44eda1e25b641ad8ef21d5f08
+Author: rohitrango <rohit.rango@gmail.com>
+Date:   Wed Apr 6 19:48:34 2016 +0530
+
+    Using Sublime to enter commit message.
+
+commit 4e00d9adb28ae79570c0eb2e3be438eeab5c736e
+Author: rohitrango <rohit.rango@gmail.com>
+Date:   Wed Apr 6 19:45:10 2016 +0530
+
+    Added gitignore and added sample files
+
+commit 7856ff4ad2c5a44d5cbbeefc4637e83afa14b76f
+Author: rohitrango <rohit.rango@gmail.com>
+Date:   Wed Apr 6 19:34:49 2016 +0530
+
+    Just a sample commit
